@@ -1,4 +1,4 @@
-# Splunk Windows Log Analysis — Failed Login Detection (Brute Force)
+# Splunk — Failed Login Detection (Brute Force)
 
 ## Objective
 Configure Splunk Enterprise to ingest Windows Security 
