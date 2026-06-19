@@ -69,12 +69,12 @@ theoretical knowledge.
 ## Roadmap
 - [ ] TryHackMe SOC Level 1 completion
 - [ ] Wireshark network traffic analysis lab
-- [ ] Kali Linux Nmap scan detection in Splunk
-- [ ] Process creation monitoring — EventCode 4688
+- [x] Kali Linux Nmap scan detection in Splunk
+- [x] Process creation monitoring — EventCode 4688
 - [ ] CySA+ certification
 
 ---
 
 ## Connect
-- LinkedIn: www.linkedin.com/in/michael-santa-cruz-2720183b4
+- LinkedIn: https://www.linkedin.com/in/michael-santa-cruz/
 - Email: mike.santacruz@proton.me
